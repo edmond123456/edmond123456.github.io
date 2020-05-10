@@ -1,0 +1,112 @@
+---
+title: Help
+layout: page
+description: Sharing matters
+header-img: "img/tag-bg.jpg"
+---
+
+
+<!-- Main Content -->
+
+
+<h1 id="anametopasupport"><a name="top"></a>Support</h1>
+
+<ul>
+<li> <a href="#jump1">Technologial Aid</a></li>
+
+<li><a href="#jump2">Academic Support</a></li>
+
+<li><a href="#jump3">Paper List</a></li>
+</ul>
+
+<h1 id="technologialaid">Technologial Aid</h1>
+
+<p><span id="jump1">Jump to here</span></p>
+
+<ul>
+<li><a href="https://download.teamviewer.com/download/version_13x/TeamViewer_Setup.exe">Teamviewer13</a></li>
+
+<li>  <a href="https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe">miniconda</a></li>
+
+<li>  <a href="https://blog.csdn.net/lingyunxianhe/article/details/81407404">Matlab</a></li>
+
+<li> <a href="http://mirror.ctan.org/systems/texlive/tlnet/install-tl-windows.exe">texlive2018</a></li>
+
+<li> <a href="https://github.com/CopyTranslator/CopyTranslator/releases/download/v0.0.7-RC1/CopyTranslator_v0.0.7-Kylin-RC1.zip">CopyTranslator</a></li>
+
+<li> <a href="https://www.listary.com/download/Listary.exe?version=5.00.2843">listary</a></li>
+
+<li> <a href="https://sourceforge.net/projects/ccseer/files/latest/download">seer</a></li>
+
+<li> <a href="https://mh-nexus.de/downloads/HxDSetup.zip">Hex editors for Windows</a></li>
+
+<li> <a href="http://www.hpplay.com.cn/index_english.jsp">Screen mirror</a></li>
+
+<li> <a href="https://www.graphpad.com/scientific-software/prism/">Prism 8</a></li>
+
+<li> <a href="https://lc-leo.github.io/2018/01/09/%E5%A6%82%E4%BD%95%E5%9C%A8hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%B7%BB%E5%8A%A0%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%E5%92%8C%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/<br>
+    ">(转)如何在hexo博客中添加音乐播放器和视频播放器</a></li>
+
+<li> <a href="https://mp.weixin.qq.com/s/qW4p7IbewZ1vm92xkzbvWw">(转)强烈推荐20个必须了解的API，涉及机器学习、NLP和人脸检测</a></li>
+</ul>
+
+
+
+
+
+<p><a href="#top">[Top]</a></p>
+
+<h1 id="academicsupport">Academic Support </h1>
+
+<p><span id="jump2">Jump to here</span></p>
+
+<ul>
+<li> <a href="http://www.cailiaoniu.com/99236.html">adobe illustrator画图</a></li>
+
+<li> <a href="http://sils.shoin.ac.jp/~gunji/CR/Kyozai/thesis/">
+    卒論/修論/博論パッケージ</a></li>
+
+<li> <a href="http://www.junjie-hua.online/2019/03/15/latexmath/">
+    latex math editor </a></li>
+
+
+<li> <a href="http://www.junjie-hua.online/2019/03/16/wolf/">
+        何でも答えてくれる </a></li>
+
+</ul>
+
+<p></p><a href="#top">[Top]</a></p>
+
+<h1 id="paperlist">Paper List</h1>
+
+<p><span id="jump3">Jump to here</span></p>
+<li> <a href="http://www.junjie-hua.online/2019/08/02/career/">
+    Paper list</a></li>
+
+<p><a href="#top">[Top]</a></p>
+
+
+<img src="https://edmond123456.github.io/img/lee.gif" alt="lee" />
+
+
+<!-- Gitalk 评论 start  -->
+{% if site.gitalk.enable %}
+<!-- Gitalk link  -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+    <script type="text/javascript">
+    var gitalk = new Gitalk({
+    clientID: '{{site.gitalk.clientID}}',
+    clientSecret: '{{site.gitalk.clientSecret}}',
+    repo: '{{site.gitalk.repo}}',
+    owner: '{{site.gitalk.owner}}',
+    admin: ['{{site.gitalk.admin}}'],
+    //distractionFreeMode: {{site,gitalk,distractionFreeMode}},
+    //id: 'about',
+    });
+    gitalk.render('gitalk-container');
+</script>
+{% endif %}
+<!-- Gitalk end -->

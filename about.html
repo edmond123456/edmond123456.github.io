@@ -1,0 +1,155 @@
+---
+layout: page
+title: "About"
+description: "Hey, this is Junjie Hua."
+header-img: "img/post-bg-rwd.jpg"
+---
+
+
+
+
+<!-- English Version -->
+ <div class="en post-container">
+    <h1 id="aboutme">About me</h1>
+
+    <h2 id="personalstatement">Personal Statement</h2>
+    
+    <p>My name is Junjie Hua. I am a current Ph.D student majoring in Bioinformatics Technology at Osaka University  @Osaka,Japan.</p>
+    
+    <p><a href="#top">[Top]</a></p>
+    
+    <hr />
+    
+    <p>My dream is to make people have a virtual thermal perception through robot(s) or artificail arm(s). With the help of virtual thermal perception, in the future, we may be</p>
+    
+    <ol>
+    <li><p>able to work at home or somewhere safe, distant from dangerous working environment while using a robot work for us.</p></li>
+    
+    <li><p>able to work with more than two hands for ordinary people, and be able to work like ordinary people for disabled people by using artificial arm(s).</p></li>
+    
+    <li><p>able to take one's temperature remotely and thus avoid the risk of being infected.</p></li>
+
+    </ol>
+    
+    <h2 id="Researchexperience">Research Experience</h2>
+
+    <p>I did research about "Thermal illusion induced by recording and reproduce of technology of electrical stimulation" from 2017-2019. 
+        Current research theme is about "Thermal slope illusion and the spatial frequency and temperature difference characteristics".
+    </p>
+
+
+    <h2 id="paperlist">Paper List</h2>
+    <table border="1">
+        <tr>
+        <th>Author</th>
+        <th>Title</th>
+        <th>Conference</th>
+        </tr>
+
+        <tr>
+            <td>Hiroki Miyamoto, Naoki Nebara, Junjie Hua, Masahiro Furukawa, Taro Maeda</td>
+            <td>Wave Field Synthesis on Water Membrance to Clone Two Dimensional Rubbing Sensation</td>
+            <td>World Haptics2019, Tokyo, Japan,July, 2019[査読あり，デモ発表]</td>    
+        </tr>
+
+        <tr>
+            <td>Junjie Hua，Masahiro Furukawa，Taro Maeda</td>
+            <td>Contribution to Ownership and Agency When Controlling a mobile Robot</td>
+            <td>ICAT-EGVE2018，Cyprus，November，2018[査読あり，ポスター発表]</td>    
+        </tr>
+
+        <tr>
+            <td>Nan Yang, Xueyan Wang, Wei Lu , Jun Xu, Maoyan Wang , Junjie Hua , Zhihui Cao</td>
+            <td>A broadband pulse detector for K- and Ka-band</td>
+            <td>2013 IEEE International Conference on Applied Superconductivity and Electromagnetic Devices, Beijing, China, 2013[査読あり，口頭発表]</td>    
+        </tr>
+
+        <tr>
+            <td>華 俊杰，鄭 文韜，沈 靖程，安藤 英由樹</td>
+            <td>柔軟性を持つ温度感覚提示デバイスを用いたファイアボール発射体験</td>
+            <td>Entertainment Computing 2019，福岡，9月，2019[査読なし，デモ発表]
+            </td>    
+        </tr>
+
+        <tr>
+            <td>華 俊杰，古川 正紘，前田 太郎</td>
+            <td>移動ロボットに対するOwnership/agencyの構成要因</td>
+            <td>テレイグジスタンス研究会，名古屋，7月，2018[査読なし，口頭発表]</td>    
+        </tr>
+
+        <tr>
+            <td>華 俊杰，古川 正紘，安藤 英由樹，前田 太郎</td>
+            <td>温度感覚を反映する電気信号の解析</td>
+            <td>第22回バーチャルリアリティ学会大会論文集，徳島，9月，2017[査読なし，口頭発表]</td>    
+        </tr>
+
+        <tr>
+            <td>安藤 英由樹,坂本 伸仁,竹ノ下 滋,中山 洋輔,根原 直希,宮本 拓,森島 暉悦,華 俊杰</td>
+            <td>バーチャルな衝突感（ハイタッチ，ボールがミットに収ま
+                る感覚）を実現するウェアラブル型デバイスの実現と応用</td>
+            <td>第22回バーチャルリアリティ学会大会論文集，徳島，9月，2017[査読なし，デモ発表]
+            </td>    
+        </tr>
+
+        </table>
+    
+    <p><a href="#top">[Top]</a></p>
+
+    <img src="https://edmond123456.github.io/img/yoshida.gif" alt="yoshida" />
+</div>
+
+
+
+
+
+
+
+
+
+<!-- Gitalk 评论 start  -->
+{% if site.gitalk.enable %}
+<!-- Gitalk link  -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+    <script type="text/javascript">
+    var gitalk = new Gitalk({
+    clientID: '{{site.gitalk.clientID}}',
+    clientSecret: '{{site.gitalk.clientSecret}}',
+    repo: '{{site.gitalk.repo}}',
+    owner: '{{site.gitalk.owner}}',
+    admin: ['{{site.gitalk.admin}}'],
+    //distractionFreeMode: {{site.gitalk.distractionFreeMode}},
+    //id: 'about',
+    });
+    gitalk.render('gitalk-container');
+</script>
+{% endif %}
+<!-- Gitalk end -->
+
+ <!-- disqus 评论框 start  -->
+{% if site.disqus.enable %}
+
+<div class="comment">
+    <div id="disqus_thread" class="disqus-thread">
+    </div>
+</div>
+<!-- disqus 评论框 end -->
+
+<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = "{{site.disqus.username}}";
+    var disqus_identifier = "{{site.disqus.username}}/{{page.url}}";
+    var disqus_url = "{{site.url}}{{page.url}}";
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<!-- disqus 公共JS代码 end -->
+{% endif %}
+

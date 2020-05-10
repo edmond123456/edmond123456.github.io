@@ -1,2 +1,4 @@
-# edmond123456.github.io
-personal homepage
+## Junjie Hua's personal website 
+forked from: http://qiubaiying.github.io
+
+
