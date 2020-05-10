@@ -24,7 +24,7 @@ The fireball game is a brand-new game which is different from any current game.
 -->In our game, players sense the thermal change at the hands, which is related with  power of the fireball. The hotter players sense, more powerful the fireball will be created. However, temperature of hand(or thermal display) does not change in linear relation--it changes nolinearly.  Pl
 Players decide the timing to fire the fireball in their hands.
 
-Our project will be devided into two parts--hardware and softwarre. I will develop the hardware and help my collegue with the development of software. Details will be available at this github repository [https://github.com/mashiro1204/ec2019](https://github.com/mashiro1204/ec2019)
+Our project will be devided into two parts--hardware and softwarre. I will develop the hardware and help my collegue with the development of software. Details will be available at this github repository [https://github.com/nankasensei/TF_VR_Demo](https://github.com/nankasensei/TF_VR_Demo)
 
 Our project will be demonstrated at [Entertainment Computing 2019](http://ec2019.entcomp.org/).
 
