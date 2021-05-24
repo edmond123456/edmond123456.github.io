@@ -59,3 +59,301 @@ tags:
 ![rotsnake](https://edmond123456.github.io/img/temperature_perception/4.png)
 
 # 参考文献
+1. Adair ER. 1977. Skin, preoptic, and core temperatures influence behavioral thermoregulation. J Appl Physiol 42: 559–564.
+
+2. Alrutz S. 1898. On the temperature senses: II. The sensation “hot”. Mind 7:140 –144.
+
+3. Andrew D, Craig AD. 2001. Spinothalamic lamina I neurones
+selectively responsive to cutaneous warming in
+cats. J Physiol 537:489–495.
+
+4. Bandell M, Story GM, Hwang SW, Viswanath V, Eid SR,
+Petrus MJ, Earley TJ, Patapoutian A. 2004. Noxious cold
+ion channel TRPA1 is activated by pungent compounds
+and bradykinin. Neuron 41:849–857.
+
+5. Berglund B, Harju EL, Kosek E, Lindblom U. 2002. Quantitative
+and qualitative perceptual analysis of cold dysesthesia
+and hyperalgesia in fibromyalgia. Pain 96:177–187.
+
+6. Berkley KJ, Hubscher CH. 1995. Are there separate central
+nervous system pathways for touch and pain? Nat Med
+1:766 –773.
+
+7. Bessou P, Perl ER. 1969. Response of cutaneous sensory
+units with unmyelinated fibers to noxious stimuli. J Neurophysiol
+32:1025–1043.
+
+8. Bishop GH, Landau WM. 1958. Evidence for a double
+peripheral pathway for pain. Science 128:712–713.
+
+9. Boring EG. 1942. Tactual sensibility. In: Sensation and
+perception in the history of experimental psychology.
+New York: Appleton-Century-Crofts, Inc., p 463–522.
+
+10. Burnett NC, Dallenbach KM. 1927. The experience of heat.
+Am J Psychol 38:418–431.
+
+11. Campero M, Serra J, Bostock H, Ochoa JL. 2001. Slowly
+conducting afferents activated by innocuous low temperature
+in human skin. J Physiol 535:855– 865.
+
+12. Campero M, Serra J, Ochoa JL. 1996. C-polymodal nociceptors
+activated by noxious low temperature in human
+skin. J Physiol 497( Pt 2):565–572.
+
+13. Casey KL, Minoshima S, Morrow TJ, Koeppe RA. 1996.
+Comparison of human cerebral activation pattern during
+cutaneous warmth, heat pain, and deep cold pain. J Neurophysiol
+76:571–581.
+
+14. Caterina MJ, Leffler A, Malmberg AB, Martin WJ, Trafton
+J, Petersen-Zeitz KR, Koltzenburg M, Basbaum AI,
+Julius D. 2000. Impaired nociception and pain sensation
+in mice lacking the capsaicin receptor. Science 288:306–313.
+
+15. Caterina MJ, Rosen TA, Tominaga M, Brake AJ, Julius D.1999. A capsaicin-receptor homologue with a high
+threshold for noxious heat. Nature 398:436–441.
+
+16. Caterina MJ, Schumacher MA, Tominaga M, Rosen TA,
+Levine JD, Julius D. 1997. The capsaicin receptor: a
+heat-activated ion channel in the pain pathway. Nature 389:816–824.
+
+17. Chapin JK, Nicolelis MA. 1999. Principal component analysis
+of neuronal ensemble activity reveals multidimensional somatosensory
+representations. J Neurosci Methods 94:121–140.
+
+18. Chery-Croze S, Duclaux R. 1980. Discrimination of painful stimuli in human beings: influence of stimulation area.
+J Neurophysiol 44:1–10.
+
+19. Chung MK, Lee H, Caterina MJ. 2003. Warm temperatures
+activate TRPV4 in mouse 308 keratinocytes. J Biol Chem
+278:32037–32046.
+
+20. Cliff MA, Green BG. 1994. Sensory irritation and coolness
+produced by menthol: evidence for selective desensitization
+of irritation. Physiol Behav 56:1021–1029.
+
+21. Coghill RC, Mayer DJ, Price DD. 1993. Wide dynamic
+range but not nociceptive-specific neurons encode multidimensional
+features of prolonged repetitive heat pain.
+J Neurophysiol 69:703–716.
+
+22. Craig AD. 2003a. A new view of pain as a homeostatic
+emotion. Trends Neurosci 26:303–307.
+
+23. Craig AD. 2003b. Interoception: the sense of the physiological
+condition of the body. Curr Opin Neurobiol 13:
+500–505.
+
+24. Craig AD. 2003c. Pain mechanisms: labeled lines versus
+convergence in central processing. Annu Rev Neurosci
+26:1–30.
+
+25. Craig AD, Bushnell MC. 1994. The thermal grill illusion:
+unmasking the burn of cold pain. Science 265:252–255.
+
+26. Craig AD, Krout K, Andrew D. 2001. Quantitative response
+characteristics of thermoreceptive and nociceptive lamina
+I spinothalamic neurons in the cat. J Neurophysiol 86:
+1459–1480.
+
+27. Craig AD, Reiman EM, Evans A, Bushnell MC. 1996.
+Functional imaging of an illusion of pain. Nature 384:
+258–260.
+
+28. Craig AD, Serrano LP. 1994. Effects of systemic morphine
+on lamina I spinothalamic tract neurons in the cat. Brain
+Res 636:233–244.
+
+29. Christensen BN, Perl ER. 1970. Spinal neurons specifically
+excited by noxious or thermal stimuli: marginal zone of
+the dorsal horn. J Neurophysiol 33:293–307.
+
+30. Croze S, Duclaux R. 1979. Burning and second pain: an
+alternative interpretation. In: Kenshalo DR, editor. Sensory
+functions of the skin of humans. New York: Plenum
+Press, p 385–394.
+
+31. Croze S, Duclaux R, Kenshalo DR. 1976. The thermal
+sensitivity of the polymodal nociceptors in the monkey.
+J Physiol (Lond) 263:539 –562.
+
+32. Cutolo F Jr. 1918. A preliminary study of the psychology of
+heat. Am J Psychol 29:442– 448.
+
+33. Darian-Smith I, Johnson KO, Dykes R. 1973. “Cold” fiber
+population innervating palmar and digital skin of the
+monkey: responses to cooling pulses. J Neurophysiol
+36:325–346.
+
+34. Darian-Smith I, Johnson KO, LaMotte C, Shigenaga Y,
+Kenins P, Champness, P. 1979. Warm fibers innervating
+palmar and digital skin of the monkey: responses to
+thermal stimuli. J Neurophysiol 42:1297–1315.
+
+35. Davis KD. 1998. Cold-induced pain and prickle in the
+glabrous and hairy skin. Pain 75:47–57.
+
+36. Davis KD, Kwan CL, Crawley AP, Mikulis DJ. 1998.
+Functional MRI study of thalamic and cortical activations
+evoked by cutaneous heat, cold, and tactile stimuli.
+J Neurophysiol 80:1533–1546.
+
+37. Davis KD, Lozano RM, Manduch M, Tasker RR, Kiss ZH,
+Dostrovsky JO. 1999. Thalamic relay site for cold perception
+in humans. J Neurophysiol 81:1970 –1973.
+
+38. Defrin R, Ohry A, Blumen N, Urca G. 2002. Sensory
+determinants of thermal pain. Brain 125:501–510.
+
+39. Dodt E, Zotterman Y. 1952a. The discharge of specific cold
+fibers at high temperatures (the paradoxical cold). Acta
+Physiol Scand 26:358 –365.
+
+40. Dodt E, Zotterman Y. 1952b. The mode of action of warm
+receptors. Acta Physiol Scand 26:345–357.
+
+41. Doetsch GS. 2000. Patterns in the brain. Neuronal population
+coding in the somatosensory system. Physiol Behav
+69:187–201.
+
+42. Dostrovsky JO, Craig AD. 1996. Cooling-specific spinothalamic
+neurons in the monkey. J Neurophysiol 76:3656–
+3665.
+
+43. Dubner R, Bennett GJ. 1983. Spinal and trigeminal mechanisms
+of nociception. Annu Rev Neurosci 6:381– 418.
+
+44. Dubner R, Sumino R, Wood WI. 1975. A peripheral “cold”
+fiber population responsive to innocuous and noxious
+thermal stimuli applied to monkey’s face. J Neurophysiol
+38:1373–1389.
+
+45. Duclaux R, Kenshalo DR Sr. 1980. Response characteristics
+of cutaneous warm receptors in the monkey. J Neurophysiol
+43:1–15.
+
+46. Fruhstorfer H. 1984. Thermal sensibility changes during
+ischemic nerve block. Pain 20:355–361.
+
+47. Gibson JJ. 1966. The senses considered as perceptual systems.
+Westport, CT:Greenwood Press.
+
+48. Green BG. 1977. Localization of thermal sensation: an
+illusion and synthetic heat. Percept Psychophys 22:331–
+337.
+
+49. Green BG. 1978. Referred thermal sensations: warmth versus
+cold. Sens Processes 2:220 –230.
+
+50. Green BG. 1991. Capsaicin cross-desensitization on the
+tongue: psychophysical evidence that oral chemical irritation
+is mediated by more than one sensory pathway.
+Chem Senses 16:675– 689.
+
+51. Green BG. 2002. Synthetic heat at mild temperatures. Somatosens
+Mot Res 19:130 –138.
+
+52. Green BG, Cruz A. 1998. “Warmth-insensitive fields”: evidence
+of sparse and irregular innervation of human skin
+by the warmth sense. Somatosens Mot Res 15:269 –275.
+
+53. Green BG, Flammer LJ. 1989. Methyl salicylate as a cutaneous
+stimulus: a psychophysical analysis. Somatosens
+Mot Res 6:253–274.
+
+54. Green BG, McAuliffe BL. 2000. Menthol desensitization of
+capsaicin irritation. Evidence of a short-term anti-nociceptive
+effect [In Process Citation]. Physiol Behav 68:
+631–639.
+
+55. Green BG, Pope JV. 2003. Innocuous cooling can produce
+nociceptive sensations that are inhibited during dynamic
+mechanical contact. Exp Brain Res 148:290 –299.
+
+56. Greenspan JD, Taylor DJ, McGillis SLB. 1993. Body site
+variation of cool perception thresholds, with observations
+on paradoxical heat. Somatosens Mot Res 10:467– 474.
+
+57. Greffrath W, Binzen U, Schwarz ST, Saaler-Reinhardt S,
+Treede RD. 2003. Co-expression of heat sensitive vanilloid receptor subtypes in rat dorsal root ganglion neurons.
+Neuroreport 14:2251–2255.
+
+58. Guler AD, Lee H, Iida T, Shimizu I, Tominaga M, Caterina
+M. 2002. Heat-evoked activation of the ion channel,
+TRPV4. J Neurosci 22:6408–6414.
+
+59. Gybels J, Handwerker HO, Van Hees J. 1979. A comparison
+between the discharges of human nociceptive nerve
+fibres and the subject’s ratings of his sensations. J Physiol
+292:193–206.
+
+60. Hallin RG, Torebjork HE, Wiesenfeld Z. 1981. Nociceptors
+and warm receptors innervated by C fibres in human skin.
+J Neurol Neurosurg Psychiatry 44:313–319.
+
+61. Hamalainen M, Vartiainen L, Karvanen L, Jarvilehto T.
+1982. Paradoxical heat sensations during moderate cooling
+of the skin. Brain Res 251:77– 81.
+
+62. Hansen C, Hopf HC, Treede RD. 1996. Paradoxical heat
+sensation in patients with multiple sclerosis. Evidence for
+a supraspinal integration of temperature sensation. Brain
+119 (Pt 5):1729 –1736.
+
+63. Hardy JD, Oppel TW. 1938. Studies in temperature sensation.
+IV. The stimulation of cold sensation by radiation.
+J Clin Invest 17:771–778.
+
+64. Hardy JD, Wolff HG, Goodell H. 1940. Studies on pain. A
+new method for measuring pain theshold: observations on
+spatial summation of pain. J Clin Invest 19:649–657.
+
+65. Hardy JD, Wolff HG, Goodell H. 1952. Pricking pain
+threshold in different body areas. Proc Soc Exp Biol Med
+80:425– 427.
+
+66. Harrison JL, Davis KD. 1999. Cold-evoked pain varies with
+skin type and cooling rate: a psychophysical study in
+humans. Pain 83:123–135.
+
+67. Hensel H. 1970. Temperature receptors in the skin. In:
+Hardy JD, Gagge AP, Stolwijk JA, editors. Springfield,
+IL:Charles C. Thomas, p 442–453.
+
+68. Hensel H. 1973. Cutaneous thermoreceptors. In: Iggo A,
+editor. Handbook of sensory physiology, vol. 2, somatosensory
+system. New York: Springer-Verlag, p 79–110.
+
+69. Hensel H, Boman K. 1960. Afferent impulses in cutaneous
+sensory nerves in human subjects. J Neurophysiol 23:
+564–578.
+
+70. Hensel H, Huopaniemi T. 1969. Static and dynamic properties
+of warm fibres in the infraorbital nerve. Pflugers
+Arch Eur J Physiol 309:1–10.
+
+71. Hensel H, Iggo A. 1971. Analysis of cutaneous warm and
+cold fibres in primates. Pflugers Arch 329:1–10.
+
+72. Hensel H, Kenshalo DR. 1969. Warm receptors in the nasal
+region in cats. J Physiol (Lond) 204:99 –112.
+
+73. Hensel H, Wurster RD. 1969. Static behavior of cold receptors
+in the trigeminal area. Pflugers Arch Ges Physiol
+313:153–154.
+
+74. Hensel H, Zotterman Y. 1951. The effect of menthol on
+thermoreceptors. Acta Physiol Scand 24:27–34.
+
+75. Iggo A. 1959. Cutaneous heat and cold receptors with
+slowly conducting (c) afferent fibres. Q J Exp Physiol
+44:362–370.
+
+76. Iggo A. 1964. Temperature discrimination in skin. Nature
+204:481– 483.
+
+77. Iggo A. 1970. The mechanisms of biological temperature reception. In: Hardy JD, Gagge AP, Stolwijk JA, editors.
+Physiological and behavioral temperature regulation.
+Springfield, IL: Charles C. Thomas, p 391–407.
