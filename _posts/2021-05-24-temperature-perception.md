@@ -2,7 +2,7 @@
 layout:     post
 title:      Temperature perception and nociceptionに関する紹介
 subtitle:    
-date:       2021-05-24
+date:       2021-05-28
 author:     Junjie Hua
 header-img: img/post-bg-o.jpg
 catalog: true
@@ -14,20 +14,21 @@ tags:
 [Temperature perception and nociception](https://onlinelibrary.wiley.com/doi/pdf/10.1002/neu.20081?casa_token=0NLfhuVjAYEAAAAA:uFFypDAkBwF9k6GA0IbQfnWEUTaEfI4TOULC0873rNby09Ua99GRW9Ia7ygch1KbQ570dyhSebPvsGY41Q)を翻訳し共有したいのである．
 
 # ABSTRACT  
-温感、冷感、痛覚などの感覚を含む体性感覚の特異性理論は別々で行っている説である．現在ではすべては認められていませんが，この理論の基本的な前提である，解剖学的および機能的な特異性は，温度知覚および痛みとの関係を研究する上での指針となっている．この論文では，温度受容器，温度感受性侵害受容器，およびそれらの関連経路の反応特性を，特異性理論では十分に説明できない新旧の知覚現象との関連で検討している．これらの証拠から，温度感受性は，知覚範囲の大部分において，特異的な「labeled line」と非特異的なマルチモーダル繊維の両方で構成される温度・侵害受容経路の共活性化と相互作用に依存していることがわかる．この複雑さをさらに高めるのが，触覚刺激が温度刺激の知覚方法に影響を与えるという証拠がある．熱受容は、次のように定義されている．体性感覚の機能的なサブシステムとして定義するのが最適であると考えられる．温度感覚は，体温調節，体温の保護，体調管理といった体温調節，熱傷からの保護，触覚など、非常に異なる時には相反する要求を満たす体性感覚の機能的サブシステムと定義することが最適である．
+温感，冷感，痛覚などの感覚を含む体性感覚の特異性理論は別々で行っている説である．現在ではすべては認められていませんが，この理論の基本的な前提である，解剖学的および機能的な特異性は，温度知覚および痛覚との関係を研究する上での指針となっている．この論文では，温度受容器，温度感受性侵害受容器，およびそれらの関連経路の反応特性を，特異性理論では十分に説明できない新旧の知覚現象との関連で検討している．これらの証拠から，温度感受性は，知覚範囲の大部分において，特異的な「labeled line」と非特異的なマルチモーダル繊維の両方で構成される温度・侵害受容経路の共活性化と相互作用に依存していることがわかる．この複雑さをさらに高めるのが，触覚刺激が温度刺激の知覚方法に影響を与えるという証拠がある．熱受容は，次のように定義されている．体性感覚の機能的なサブシステムとして定義するのが最適であると考えられる．温度感覚は，体温調節，体温の保護，体調管理といった体温調節，熱傷からの保護，触覚など，非常に異なる時には相反する要求を満たす体性感覚の機能的サブシステムと定義することが最適である．
 
 # 紹介
-19世紀後半以降，温度感覚の研究は，von Frey氏の特異性理論の影響を受けている．Mu¨ller氏の「特定の神経エネルギーの理論」に基づき，感覚スポットの存在によって感覚スポットの存在に支えられた特異性理論(Boring, 1942)では，皮膚の各感覚は感覚ニューロンによってそれぞれの皮膚感覚は，1つの刺激にしか反応しない感覚ニューロンによって支えられていると考える．皮膚の各感覚は、1つの刺激にしか反応しない（「特異的な刺激性」）感覚ニューロンによって提供されている。また、1つの感覚の性質のみを符号化する感覚ニューロン（現在では 現在では「labeled line」と呼ばれている．) この理論の詳細については議論されることもあったが(Norrsell et al., 1999)，神経の特異性という中心的な前提は，電気生理学的研究により，温度，触覚，および痛覚に選択的に敏感な体性感覚ニューロンの証拠が発見されたことで支持を得た(Zotterman, 1935; Dodt and Zotterman, 1952a, 1952b; Iggo, 1959; Hensel and Boman, 1960）．このような証拠の重みの下では，非特異的な感覚繊維の時空間的な活動パターンから生まれるという反対意見（Nafe, 1929; Jenkins, 1941; Sinclair, 1955）が広く受け入れられることはなかった．
+19世紀後半以降，温度感覚の研究は，von Frey氏の特異性理論の影響を受けている．Mu¨ller氏の「特定の神経エネルギーの理論」に基づき，感覚スポットの存在によって感覚スポットの存在に支えられた特異性理論(Boring, 1942)では，皮膚の各感覚は感覚ニューロンによってそれぞれの皮膚感覚は，1つの刺激にしか反応しない感覚ニューロンによって支えられていると考える．皮膚の各感覚は，1つの刺激にしか反応しない（「特異的な刺激性」）感覚ニューロンによって提供されている．また，1つの感覚の性質のみを符号化する感覚ニューロン（現在では 現在では「labeled line」と呼ばれている．) この理論の詳細については議論されることもあったが(Norrsell et al., 1999)，神経の特異性という中心的な前提は，電気生理学的研究により，温度，触覚，および痛覚に選択的に敏感な体性感覚ニューロンの証拠が発見されたことで支持を得た(Zotterman, 1935; Dodt and Zotterman, 1952a, 1952b; Iggo, 1959; Hensel and Boman, 1960）．このような証拠の重みの下では，非特異的な感覚繊維の時空間的な活動パターンから生まれるという反対意見（Nafe, 1929; Jenkins, 1941; Sinclair, 1955）が広く受け入れられることはなかった．
 
-よって，温感や冷感といった温度感覚は，これまで痛覚とは無関係に研究されてきました．痛覚は皮膚感覚の中で唯一，パターン理論が研究と理解に大きな影響を与えてきたにもかかわらず，このような状況が続いてきた．よく知られている「Gate Theory of Pain」（Melzack and Wall, 1965）は，痛みは閾値の高い小径線維によってコード化され，閾値の低い大径線維を刺激することで痛覚が抑制されると主張した．Gate理論の詳細の多くは支持されていないが，マルチモーダルおよび温度刺激や機械刺激に特異的な痛覚線維（Bessou and Perl, 1969; Van Hees and Gybels, 1972; Torebjork, 1974）やWDR（Wide-Dynamic Range）脊髄視床路（STT）ニューロンの発見（Price et al, 1976; Kenshalo et al., 1980; Willis, 1985; Maixner et al., 1986）から，痛覚の「感覚識別」の面では，特異求心性ニューロンとポリモーダル求心性ニューロンの組み合わせによりコード化されているという結論に達した（Price and Dubner, 1977b）．しかし，収束と繊維間パターン化の概念は，主に侵害受容経路内の相互作用に適用されてきた．温度感覚と痛覚の相互作用は，ほとんどの場合，加重や統合ではなく，抑制の観点からのみ研究されてきた（Fruhstorfer, 1984; Kanui, 1987; Yarnitsky and Ochoa, 1990）．冷線維や温線維が痛覚の強度や性質に寄与している可能性については，ほとんど考慮されてこなかった(Price and Dubner, 1977b)．特異性理論の前提と，温度感覚の生理学や心理物理学との間には，長年にわたり不一致があったにもかかわらず，このような状況が続いている．
+よって，温感や冷感といった温度感覚は，これまで痛覚とは無関係に研究されてきました．痛覚は皮膚感覚の中で唯一，パターン理論が研究と理解に大きな影響を与えてきたにもかかわらず，このような状況が続いてきた．よく知られている「Gate Theory of Pain」（Melzack and Wall, 1965）は，痛覚は閾値の高い小径線維によってコード化され，閾値の低い大径線維を刺激することで痛覚が抑制されると主張した．Gate理論の詳細の多くは支持されていないが，マルチモーダルおよび温度刺激や機械刺激に特異的な痛覚線維（Bessou and Perl, 1969; Van Hees and Gybels, 1972; Torebjork, 1974）やWDR（Wide-Dynamic Range）脊髄視床路（STT）ニューロンの発見（Price et al, 1976; Kenshalo et al., 1980; Willis, 1985; Maixner et al., 1986）から，痛覚の「感覚識別」の面では，特異求心性ニューロンとポリモーダル求心性ニューロンの組み合わせによりコード化されているという結論に達した（Price and Dubner, 1977b）．しかし，収束と繊維間パターン化の概念は，主に侵害受容経路内の相互作用に適用されてきた．温度感覚と痛覚の相互作用は，ほとんどの場合，加重や統合ではなく，抑制の観点からのみ研究されてきた（Fruhstorfer, 1984; Kanui, 1987; Yarnitsky and Ochoa, 1990）．冷線維や温線維が痛覚の強度や性質に寄与している可能性については，ほとんど考慮されてこなかった(Price and Dubner, 1977b)．特異性理論の前提と，温度感覚の生理学や心理物理学との間には，長年にわたり不一致があったにもかかわらず，このような状況が続いている．
 
 # 特異性理論と温度受容器
-最初の哺乳類の温度受容体の発見と特性評価により，温度受容に関連する特異性理論に問題が生じ始めた．30〜40°Cの静電気放電のしきい値を持つ冷繊維の識別は，穏やかな冷却に対する人間の感受性を説明できるが（Hensel、1973），これらの繊維の静的放電も動的放電も，30°C未満の温度では単調に増加しなかった．冷感が顕著になり，強まり続ける場所．その代わりに，それらの応答関数は，温度の逆U字型関数として変化し，25〜30°Cの間にピークに達することが分かった（DodtとZotterman、1952a; HenselとWurster、1969; Hensel、1970）．このピークを下回ると，応答がバースト放電に変化し，平均スパイク周波数が低下した．特異性理論内でこの結果に対応するために，Iggo（1970）は，スパイク周波数ではなく，バースト放電の時間的特徴によって，より低い温度で強度が伝達されることを提案した．特異性理論は非常に支配的であり，たとえ25°C未満の温度に静的および動的に応答する他の低温感受性ニューロン（すなわち侵害受容器）が発見されたとしても（Iggo、1959; Bessou and Perl、1969），低温強度が繊維間パターンでエンコードされたものについては議論されていない．
+最初の哺乳類の温度受容体の発見と特性評価により，温度受容に関連する特異性理論に問題が生じ始めた．30〜40°Cの静電気放電のしきい値を持つ冷繊維の識別は，穏やかな冷却に対する人間の感受性を説明できるが（Hensel，1973），これらの繊維の静的放電も動的放電も，30°C未満の温度では単調に増加しなかった．冷感が顕著になり，強まり続ける場所．その代わりに，それらの応答関数は，温度の逆U字型関数として変化し，25〜30°Cの間にピークに達することが分かった（DodtとZotterman，1952a; HenselとWurster，1969; Hensel，1970）．このピークを下回ると，応答がバースト放電に変化し，平均スパイク周波数が低下した．特異性理論内でこの結果に対応するために，Iggo（1970）は，スパイク周波数ではなく，バースト放電の時間的特徴によって，より低い温度で強度が伝達されることを提案した．特異性理論は非常に支配的であり，たとえ25°C未満の温度に静的および動的に応答する他の低温感受性ニューロン（すなわち侵害受容器）が発見されたとしても（Iggo，1959; Bessou and Perl，1969），低温強度が繊維間パターンでエンコードされたものについては議論されていない．
 皮膚の冷却が冷痛の閾値を超える冷たさとして純粋に知覚されるという信念は，侵害受容器を含む可能性のある繊維全体のコーディングスキームの検討を除外したようである．
 
-2種類の温繊維の2番目の発見とほぼ同時に，特異性理論に問題を引き起こした．最初のタイプの温繊維は理論にうまく適合し，しきい値は30°C近く，ピーク応答性は熱痛のしきい値（約45°C）近くで，高温に対する応答は急激に低下した（Dodt and Zotterman、 1952b;ヘンゼルとケンシャロ、1969;ヘンゼルとフオパニエミ、1969）．しかし，Hensel and Iggo（1971）は後に，30°C近くのしきい値を持っていたが，熱痛のしきい値をはるかに超えて放電し続けた温繊維を報告した．痛覚を伴う温度での継続的な放電は，これらの繊維に熱痛と温感をコード化する可能性を与え，したがってそれらの機能的位置づけを混乱させた．特異性の時代精神と調和するため，HenselとIggoは，「痛みをまったく引き起こさない温度で継続的に活動する」ため、繊維は温感のみをエンコードする必要があると結論付け，このあいまいさを解決した（Hensel and Iggo、1971）．
+2種類の温繊維の2番目の発見とほぼ同時に，特異性理論に問題を引き起こした．最初のタイプの温繊維は理論にうまく適合し，しきい値は30°C近く，ピーク応答性は熱痛のしきい値（約45°C）近くで，高温に対する応答は急激に低下した（Dodt and Zotterman， 1952b;ヘンゼルとケンシャロ，1969;ヘンゼルとフオパニエミ，1969）．しかし，Hensel and Iggo（1971）は後に，30°C近くのしきい値を持っていたが，熱痛のしきい値をはるかに超えて放電し続けた温繊維を報告した．痛覚を伴う温度での継続的な放電は，これらの繊維に熱痛と温感をコード化する可能性を与え，したがってそれらの機能的位置づけを混乱させた．特異性の時代精神と調和するため，HenselとIggoは，「痛覚をまったく引き起こさない温度で継続的に活動する」ため，繊維は温感のみをエンコードする必要があると結論付け，このあいまいさを解決した（Hensel and Iggo，1971）．
 
 # 特異性理論と温度心理物理学
+特異性理論は同様に温度受容の精神物理学を支配しており，その持続的な影響は，知覚測定を温感と冷感の性質に制限する継続的な実践によって象徴されている（例えば，Hardy and Oppel，1938; Kenshalo et al．，1961; Stevens and Marks，1971; Marks and Stevens，1972）．他のすべての温度誘発性感覚は，さまざまな種類の痛覚を媒介するニューロンのタイプについて推論するために感覚の性質が日常的に使用されている痛覚システムから生じると想定されている（例えば，Morin and Bushnell，1998; Davis，1998; Berglund et al．，2002）．特に，刺すような感覚（「最初の痛覚」に関連する）は有髄侵害受容器の刺激に起因し，灼熱感（「2番目の痛覚」に関連する）は無髄の侵害受容器によってのみ引き起こされると考えられている（Zotterman，1933; Bishop and Landau， 1958; Price and Dubner，1977a; Chery-Croze and Duclaux，1980; Price et al．，1992）．このような背景の中で，痛覚を伴わない熱によって引き起こされる灼熱感，刺すような感覚，刺すような感覚刺激は矛盾（paradoxical）また錯覚であると考えられてきた（例えば，Green，1977; Hamalainen et al．，1982;Greenspan et al．，1993; Craig and Bushnell，1994; Craig et al．，1996; Susser et al．，1999）．これらの分類は，温感と冷感だけの感覚を測定する慣行とともに，特異性理論の事実上のサポートを提供した．
 
 # Heat VS Synthetic Heat
 
@@ -52,6 +53,9 @@ tags:
 # バイモーダル・ニューロンとしての冷繊維
 
 # Paradoxical Warmth and Heat
+SHと同じくらい不可解であることが証明されたもう1つの知覚現象はParadoxical Heat（PH）である．近年説明されているように，PHは皮膚が冷えたときに発生する錯覚である（Pavlicek and Jenkins，1933; Jenkins and Karr，1957; Greenspan et al．，1993; Hansen et al．，1996; Harrison and Davis，1999 ; Susser et al．，1999）．しかし，1884年にGoldsheiderによって最初に説明されたように，錯覚は熱ではなく暖かさの1つであり，暖かい場所を直接冷却することによって引き起こされた（Pavlicek and Jenkins，1933を参照）．舌神経の温繊維に関する最初の研究（Dodt and Zotterman，1952b）は，この現象の簡単な説明と思われるものを提供した．温繊維の受容野を急速に冷却すると，一時的な「反応不良」が確実に引き起こされた．最近Defrinらによって指摘されたように． （2002），オフレスポンスは複製も反証もされていないようであり，それ以来，PHの可能な根拠として言及されていない． Dodt and Zottermanの記事からわずか5年後，Jenkins and Karr（1957）は，冷却前に皮膚を加熱すると矛盾な温感がより頻繁に発生することを示した研究を発表した．冷却前に皮膚を温めることの利点は，オフレスポンスが少なくとも8〜15°Cの温繊維の段階的冷却を必要とするという証拠と一致したが，著者はDodtとZottermanの研究について言及しなかった（DodtとZotterman，1952b）．
+
+30年後，Hamalainen etal．（1982）以前の研究者によって使用された点状の刺激装置の代わりに大きい熱刺激装置を使用している間，冷却の矛盾な効果に出くわした． より大きな刺激でHamalainenetal． 被験者は暖かさよりも熱を報告することが多いことが分かった．したがって，矛盾な暖かさではなく，PHへの現在の言及である． JenkinsとKarrの観察と一致して，Hamalainen etal． また，冷却の直前に皮膚を加熱した場合，PHがより頻繁に発生することも分かった． その後の研究者は，寒冷感受性侵害受容器が加熱によって感作または脱抑制されるとPHが生じると推測している（Greenspan et al．，1993; Hansen et al．，1996; Susser et al．，1999）． しかし，この仮説はPHの性質を説明できない．なぜなら，寒さに敏感な侵害受容器（CPNなど）と冷繊維の並行刺激は，暖かさや熱ではなく，冷たい痛み，または寒い+痛みのない灼熱感や刺痛の感覚を呼び起こすはずだからである． 
 
 # Is Paradoxical Heat another form of Synthetic Heat?
 
@@ -222,8 +226,7 @@ coding in the somatosensory system. Physiol Behav
 69:187–201.
 
 42. Dostrovsky JO, Craig AD. 1996. Cooling-specific spinothalamic
-neurons in the monkey. J Neurophysiol 76:3656–
-3665.
+neurons in the monkey. J Neurophysiol 76:3656–3665.
 
 43. Dubner R, Bennett GJ. 1983. Spinal and trigeminal mechanisms
 of nociception. Annu Rev Neurosci 6:381– 418.
@@ -244,11 +247,9 @@ ischemic nerve block. Pain 20:355–361.
 Westport, CT:Greenwood Press.
 
 48. Green BG. 1977. Localization of thermal sensation: an
-illusion and synthetic heat. Percept Psychophys 22:331–
-337.
+illusion and synthetic heat. Percept Psychophys 22:331–337.
 
-49. Green BG. 1978. Referred thermal sensations: warmth versus
-cold. Sens Processes 2:220 –230.
+49. Green BG. 1978. Referred thermal sensations: warmth versus cold. Sens Processes 2:220 –230.
 
 50. Green BG. 1991. Capsaicin cross-desensitization on the
 tongue: psychophysical evidence that oral chemical irritation
@@ -296,8 +297,7 @@ fibres and the subject’s ratings of his sensations. J Physiol
 and warm receptors innervated by C fibres in human skin.
 J Neurol Neurosurg Psychiatry 44:313–319.
 
-61. Hamalainen M, Vartiainen L, Karvanen L, Jarvilehto T.
-1982. Paradoxical heat sensations during moderate cooling
+61. Hamalainen M, Vartiainen L, Karvanen L, Jarvilehto T.1982. Paradoxical heat sensations during moderate cooling
 of the skin. Brain Res 251:77– 81.
 
 62. Hansen C, Hopf HC, Treede RD. 1996. Paradoxical heat
@@ -360,3 +360,135 @@ slowly conducting (c) afferent fibres. Q J Exp Physiol
 77. Iggo A. 1970. The mechanisms of biological temperature reception. In: Hardy JD, Gagge AP, Stolwijk JA, editors.
 Physiological and behavioral temperature regulation.
 Springfield, IL: Charles C. Thomas, p 391–407.
+
+78. Jenkins WL. 1938a. Studies in thermal sensitivity: 5. The
+reactions of untrained subjects to simultaneous warm 
+cold stimulation. J Exp Psychol 22:451– 461.
+
+79. Jenkins WL. 1938b. Studies in thermal sensitivity: 6. The
+reactions of untrained subjects to simultaneous warm 
+cold  shock. J Exp Psychol 22:564 –572.
+
+80. Jenkins WL. 1941. Studies in thermal sensitivity: 17. The
+topographical and functional relations of warm and cold.
+J Exp Psychol 29:511–516.
+
+81. Jenkins WL, Karr AC. 1957. Paradoxical warmth: a sufficient condition for its arousal. Am J Psychol 70:640–641.
+
+82. Johnson KO, Darian-Smith I, LaMotte C. 1973. Peripheral
+neural determinants of temperature discrimination in
+man: a correlative study of responses to cooling skin.
+J Neurophysiol 36:347–370.
+
+83. Kanui TI. 1987. Thermal inhibition of nociceptor-driven
+spinal cord neurones in the cat: a possible neuronal basis
+for thermal analgesia. Brain Res 402:160 –163.
+
+84. Kenshalo DR. 1970. Psychophysical studies of temperature sensitivity. In: Neff WD, editor Contributions to sensory physiology. New York: Academic Press, p 19–74.
+
+85. Kenshalo DR Jr, Giesler GJ Jr, Leonard RB, Willis WD.1980. Responses of neurons in primate ventral posterior
+lateral nucleus to noxious stimuli. J Neurophysiol 43:
+1594–1614.
+
+86. Kenshalo DR, Nafe JP, Brooks B. 1961. Variations in
+thermal sensitivity. Science 134:104 –105.
+
+87. Kenshalo DR, Scott HA. 1966. Temporal course of thermal
+adaptation. Science 151:1095–1096.
+
+88. Khasabov SG, Cain DM, Thong D, Mantyh PW, Simone
+DA. 2001. Enhanced responses of spinal dorsal horn
+neurons to heat and cold stimuli following mild freeze
+injury to the skin. J Neurophysiol 86:986 –996.
+
+89. Knibestol M, Vallbo AB. 1970. Single unit analysis of
+mechanoreceptor activity from the human glabrous skin.
+Acta Physiol Scand 80:178 –195.
+
+90. Konietzny F, Hensel H. 1977. The dynamic response of
+warm units in human skin nerves. Pflugers Arch 370:
+111–114.
+
+91. Konietzny F, Perl ER, Trevino D, Light A, Hensel H. 1981.
+Sensory experiences in man evoked by intraneural electrical
+stimulation of intact cutaneous afferent fibers. Exp
+Brain Res 42:219 –222.
+
+92. Long RR. 1977. Sensitivity of cutaneous cold fibers to
+noxious heat: paradoxical cold discharge. J Neurophysiol
+40:489 –502.
+
+93. Ma QP. 2001. Vanilloid receptor homologue, VRL1, is
+expressed by both A- and C-fiber sensory neurons. Neuroreport
+12:3693–3695.
+
+94. Maixner W, Dubner R, Bushnell MC, Kenshalo DR Jr,
+Oliveras JL. 1986. Wide-dynamic-range dorsal horn neurons
+participate in the encoding process by which monkeys
+perceive the intensity of noxious heat stimuli. Brain
+Res 374:385–388.
+
+95. Marks LE, Stevens JC. 1972. Perceived cold and skin temperature
+as functions of stimulation level and duration.
+Am J Psychol 85:407– 419.
+
+96. McKemy DD, Neuhausser WM, Julius D. 2002. Identification
+of a cold receptor reveals a general role for TRP
+channels in thermosensation. Nature 416:52–58.
+
+97. Melzack R, Wall PD. 1965. Pain mechanisms: a new theory.
+Science 150:971–979.
+
+98. Meyer RA, Campbell JN, Raja SN. 1985. Peripheral neural
+mechanisms of cutaneous hyperalgesia. In: Fields HL,
+editor. Advances in pain research and therapy, vol 9. New
+York: Raven Press, p 53–71.
+
+99. Morin C, Bushnell MC. 1998. Temporal and qualitative
+properties of cold pain and heat pain: a psychophysical
+study. Pain 74:67–73.
+
+100. Nafe JP. 1929. A quantitative theory of feeling. J Gen
+Psychol 2:199 –211.
+
+101. Nealen ML, Gold MS, Thut PD, Caterina MJ. 2003.
+TRPM8 mRNA is expressed in a subset of cold-responsive
+trigeminal neurons from rat. J Neurophysiol 90:515–520.
+
+102. Nicolelis MA. 1996. Beyond maps: a dynamic view of the
+somatosensory system. Braz J Med Biol Res 29:401– 412.
+
+103. Nicolelis MA, Ghazanfar AA, Stambaugh CR, Oliveira LM,
+Laubach M, Chapin JK, Nelson RJ, Kaas JH. 1998.
+Simultaneous encoding of tactile information by three
+primate cortical areas. Nat Neurosci 1:621– 630.
+
+104. Norrsell U, Finger S, Lajonchere C. 1999. Cutaneous sensory spots and the “law of specific nerve energies”:
+history and development of ideas. Brain Res Bull 48:457–465.
+
+105. Okazawa M, Inoue W, Hori A, Hosokawa H, Matsumura K,
+Kobayashi S. 2004. Noxious heat receptors present in
+cold-sensory cells in rats. Neurosci Lett 359:33–36.
+
+106. Patapoutian A, Peier AM, Story GM, Viswanath V. 2003.ThermoTRP channels and beyond: mechanisms of temperature sensation. Nat Rev Neurosci 4:529 –539.
+
+107. Pavlicek G, Jenkins JG. 1933. Paradoxical warmth. Am J Psychol 45:353.
+
+108. Peier AM, Moqrich A, Hergarden AC, Reeve AJ, Andersson DA, Story GM, Earley TJ, Dragoni I, McIntyre P,
+Bevan S, et al. 2002a. A TRP channel that senses cold
+stimuli and menthol. Cell 108:705–715.
+
+109. Peier AM, Reeve AJ, Andersson DA, Moqrich A, Earley TJ, Hergarden AC, Story GM, Colley S, Hogenesch JB,
+McIntyre P, et al. 2002b. A heat-sensitive TRP channel
+expressed in keratinocytes. Science 296:2046 –2049.
+
+110. Pertovaara A. 1979. Modification of human pain threshold by specific tactile receptors. Acta Physiol Scand 107:339–341.
+
+111. Price DD, Browe AC. 1973. Responses of spinal cord
+neurons to graded noxious and non-noxious stimuli.
+Brain Res 64:425– 429.
+
+112. Price DD, Dubner R. 1977a. Mechanisms of first and second pain in the peripheral and central nervous systems. J Invest Dermatol 69:167–171.
+
+113. Price DD, Dubner R. 1977b. Neurons that subserve the
+sensory-discriminative aspects of pain. Pain 3:307–338.
